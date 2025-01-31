@@ -1,4 +1,4 @@
-module receiptAPI
+module github.com/heathercerise/receipt-api
 
 go 1.23.5
 
